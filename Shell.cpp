@@ -59,5 +59,6 @@ int main()
     wait(NULL);
     goto hell;
     }
+    #s7
 }
 
